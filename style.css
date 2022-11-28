@@ -1,0 +1,49 @@
+body{
+    background-color:azure;
+    
+}
+
+.form{
+    background-color:hsla(0, 0%, 86%, 0.406);
+    color:darkblue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px; 
+}
+
+.form-control{
+    border-radius: 10px;
+}
+
+.form-lable{
+    font-size: 10px;
+}
+sup{
+    color:red
+}
+
+#food{
+    padding-top: 0%;
+    margin-top: 0%;
+    border-top: 0;
+    padding-left: 15px;
+    margin: 3px;
+}
+
+.min{
+    font-style: oblique;
+ 
+}
+
+button{
+    
+    border-radius: 10px;
+    background-color:rgba(0, 255, 238, 0.6);
+    width: 75%
+}
+
+.table{
+    
+    height:fit-content;
+    overflow: scroll;
+}
